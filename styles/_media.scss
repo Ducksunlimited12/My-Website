@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 600px) {
     header{
-        padding: 1rem;
+        padding: 1rem 0 0 0;
     }
     
 
@@ -49,7 +49,7 @@
 
     .portfolios {
         grid-template-columns: 1fr;
-            padding-top: 4.5rem;
+            padding: 4.5rem 0 0 0;
     }
 
     .contact-content-con {
@@ -84,7 +84,7 @@
     }
 
     .section {
-        padding: 1rem 1.5rem;
+        padding: 1.5rem 1rem;
     }
 
 
